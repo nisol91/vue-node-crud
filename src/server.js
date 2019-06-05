@@ -6,7 +6,7 @@ const epilogue = require('epilogue')
 const OktaJwtVerifier = require('@okta/jwt-verifier')
 
 const oktaJwtVerifier = new OktaJwtVerifier({
-  clientId: '{clientId}',
+  clientId: '0oaog4b7eHwEiNkdR356',
   issuer: 'https://dev-563691.okta.com/oauth2/default'
 })
 
